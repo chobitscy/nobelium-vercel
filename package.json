@@ -22,7 +22,7 @@
     "gitalk": "^1.7.2",
     "next": "10.2.0",
     "notion-client": "^4.9.3",
-    "notion-utils": "^4.5.2",
+    "notion-utils": "^4.9.3",
     "preact": "^10.5.13",
     "react": "17.0.2",
     "react-cusdis": "^2.0.1",
